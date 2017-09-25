@@ -12,6 +12,7 @@ ARG CRT
 
 WORKDIR $HOME
 COPY . $HOME
+<<<<<<< HEAD
 RUN apt-get update \
   && apt-get install -y \
   rsync \
@@ -27,3 +28,9 @@ RUN apt-get update \
   && apt-get clean \
   && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 CMD ["./extra/service_startup.sh"]
+=======
+RUN chown www-data:www-data $HOME
+
+RUN ./extra/provision.sh -m $MODE -c $TYPE -k $KEY -C $CRT -D $DOMAIN -e $EMAIL -s `pwd` --docker
+CMD ["./extra/service_startup.sh"]
+>>>>>>> master
