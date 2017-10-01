@@ -140,6 +140,8 @@ $translations = array(
     'View mode',
   'Tutorial' =>
     'Tutorial',
+  'Account' =>
+    'Account',
   'Scoreboard' =>
     'Scoreboard',
   'You' =>
@@ -227,14 +229,22 @@ $translations = array(
     'Bases Cycle (s)',
   'Default Bonus Dec' =>
     'Default Bonus Dec',
+  'Autorun Cycle (s)' =>
+    'Autorun Cycle (s)',
+  'Auto Announcements' =>
+    'Auto Announcements',
   'Game Schedule' =>
     'Game Schedule',
   'Game Start Year' =>
     'Game Start Year',
   'Game End Year' =>
     'Game End Year',
+  'Month' =>
+    'Month',
   'Day' =>
     'Day',
+  'Hour' =>
+    'Hour',
   'Minute' =>
     'Minute',
   'Timer' =>
@@ -247,6 +257,10 @@ $translations = array(
     'Begin Time',
   'Expected End Time' =>
     'Expected End Time',
+  'Livesync' =>
+    'Livesync',
+  'Optional Livesync Auth Key' =>
+    'Optional Livesync Auth Key',
   'Internationalization' =>
     'Internationalization',
   'Language' =>
@@ -255,6 +269,10 @@ $translations = array(
     'Branding',
   'Custom Logo' =>
     'Custom Logo',
+  'Custom Organization' =>
+    'Custom Organization',
+  'Custom Byline' =>
+    'Custom Byline',
   'Logo' =>
     'Logo',
   'Custom Text' =>
@@ -263,6 +281,8 @@ $translations = array(
     'DELETE',
   'Delete' =>
     'Delete',
+  'Announcement Controls' =>
+    'Announcement Controls',
   'No Announcements' =>
     'No Announcements',
   'Game Controls' =>
@@ -273,8 +293,16 @@ $translations = array(
     'Create',
   'General' =>
     'General',
-  'Back Up Database' =>
-    'Back Up Database',
+  'Utilities' =>
+    'Utilities',
+  'Flush Memcached' =>
+    'Flush Memcached',
+  'Reset Database' =>
+    'Reset Database',
+  'Restore Database' =>
+    'Restore Database',
+  'Backup Database' =>
+    'Backup Database',
   'Export Full Game' =>
     'Export Full Game',
   'Import Full Game' =>
@@ -291,6 +319,10 @@ $translations = array(
     'Import Levels',
   'Export Levels' =>
     'Export Levels',
+  'Import Attachments' =>
+    'Import Attachments',
+  'Export Attachments' =>
+    'Export Attachments',
   'Import Categories' =>
     'Import Categories',
   'Export Categories' =>
@@ -684,6 +716,18 @@ $translations = array(
     'Next',
   'Skip to play' =>
     'Skip to play',
+  'account_' =>
+    'account_',
+  'Settings' =>
+    'Settings'
+  'Setup your FBCTF Live Sync credentials. These credentials must be the SAME on all other FBCTF instances that you are linking. DO NOT use your account password.' =>
+    'Setup your FBCTF Live Sync credentials. These credentials must be the SAME on all other FBCTF instances that you are linking. DO NOT use your account password.',
+  'Set your live sync username' =>
+    'Set your live sync username',
+  'Set your live sync password' =>
+    'Set your live sync password',
+  'Close' =>
+    'Close',
   'Powered By Facebook' =>
     'Powered By Facebook',
   'Active Directory / LDAP' =>
