@@ -25,6 +25,8 @@ $translations = array(
     'Login',
   'Soon' =>
     'Soon',
+  'In Progress' =>
+    'In Progress',
   'Upcoming Game' =>
     'Upcoming Game',
   '_days' =>
@@ -257,9 +259,9 @@ $translations = array(
     'Begin Time',
   'Expected End Time' =>
     'Expected End Time',
-  'Livesync' =>
+  'LiveSync' =>
     'Livesync',
-  'Optional Livesync Auth Key' =>
+  'Optional LiveSync Auth Key' =>
     'Optional Livesync Auth Key',
   'Internationalization' =>
     'Internationalization',
@@ -720,8 +722,8 @@ $translations = array(
     'account_',
   'Settings' =>
     'Settings'
-  'Setup your FBCTF Live Sync credentials. These credentials must be the SAME on all other FBCTF instances that you are linking. DO NOT use your account password.' =>
-    'Setup your FBCTF Live Sync credentials. These credentials must be the SAME on all other FBCTF instances that you are linking. DO NOT use your account password.',
+  'Setup your FBCTF Live Sync credentials.  These credentials must be the SAME on all other FBCTF instances that you are linking. DO NOT use your account password.' =>
+    'Setup your FBCTF Live Sync credentials.  These credentials must be the SAME on all other FBCTF instances that you are linking. DO NOT use your account password.',
   'Set your live sync username' =>
     'Set your live sync username',
   'Set your live sync password' =>
