@@ -721,7 +721,7 @@ $translations = array(
   'account_' =>
     'account_',
   'Settings' =>
-    'Settings'
+    'Settings',
   'Setup your FBCTF Live Sync credentials.  These credentials must be the SAME on all other FBCTF instances that you are linking. DO NOT use your account password.' =>
     'Setup your FBCTF Live Sync credentials.  These credentials must be the SAME on all other FBCTF instances that you are linking. DO NOT use your account password.',
   'Set your live sync username' =>
