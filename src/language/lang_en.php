@@ -533,6 +533,8 @@ $translations = array(
     'End Game',
   'Begin Game' =>
     'Begin Game',
+  'Pause Game' =>
+    'Pause Game',
   'Game Admin' =>
     'Game Admin',
   'Controls' =>
@@ -610,6 +612,10 @@ $translations = array(
     'end_',
   'Are you sure you want to finish the current game?' =>
     'Are you sure you want to finish the current game?',
+  'pause_' =>
+    'pause_',
+  'Are you sure you want to pause the current game?' =>
+    'Are you sure you want to pause the current game?',
   'Are you sure you want to logout from the game?' =>
     'Are you sure you want to logout from the game?',
   'Saved' =>
@@ -624,6 +630,16 @@ $translations = array(
     'cancel_',
   'Are you sure you want to cancel? You have unsaved changes that will be reverted.' =>
     'Are you sure you want to cancel? You have unsaved changes that will be reverted.',
+  'Database' =>
+    'Database',
+  'restore_' =>
+    'restore_',
+  'Are you sure you want to restore the database? This will overwrite ALL existing data!' =>
+    'Are you sure you want to restore the database? This will overwrite ALL existing data!',
+  'reset_' =>
+    'reset_',
+  'Are you sure you want to reset the database? This will destroy ALL data! Admin accounts will remain.' =>
+    'Are you sure you want to reset the database? This will destroy ALL data! Admin accounts will remain.',
   'choose_logo' =>
     'choose_logo',
   'captured_' =>
