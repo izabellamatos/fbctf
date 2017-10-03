@@ -616,12 +616,26 @@ $translations = array(
     'pause_',
   'Are you sure you want to pause the current game?' =>
     'Are you sure you want to pause the current game?',
+  'unpause_' =>
+    'unpause_',
+  'Are you sure you want to unpause the current game?' =>
+    'Are you sure you want to unpause the current game?',
   'Are you sure you want to logout from the game?' =>
     'Are you sure you want to logout from the game?',
+  'delete_' =>
+    'delete_',
+  'Are you sure you want to delete this level? All data for this level will be irreversibly removed, including scores.' =>
+    'Are you sure you want to delete this level? All data for this level will be irreversibly removed, including scores.',
+  'Are you sure you want to delete this team? All data for this team will be irreversibly removed, including scoring logs. If you prefer to retain data, you can disable the team instead.' =>
+    'Are you sure you want to delete this team? All data for this team will be irreversibly removed, including scoring logs. If you prefer to retain data, you can disable the team instead.',
   'Saved' =>
     'Saved',
   'All changes have been successfully saved.' =>
     'All changes have been successfully saved.',
+  'Imported' =>
+    'Imported',
+  'Items have been imported successfully' =>
+    'Items have been imported successfully',
   'Error' =>
     'Error',
   'Sorry your form was not saved. Please correct the all errors and save again.' =>
@@ -744,6 +758,10 @@ $translations = array(
     'Set your live sync username',
   'Set your live sync password' =>
     'Set your live sync password',
+  'Link Your Google Account' =>
+    'Link Your Google Account'
+  'Link your account with Google.  You may link your FBCTF account on this instance with your Google account.  Note that this will provide your email address to the administrators of this FBCTF instance.' =>
+    'Link your account with Google.  You may link your FBCTF account on this instance with your Google account.  Note that this will provide your email address to the administrators of this FBCTF instance.',
   'Close' =>
     'Close',
   'Powered By Facebook' =>
