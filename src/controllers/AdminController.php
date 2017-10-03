@@ -3696,7 +3696,7 @@ class AdminController extends Controller {
                 class={$highlighted_color}
                 href="#"
                 data-action={str_replace('_', '-', $highlighted_action)}>
-                {$action_text}
+                {tr($action_text)}
               </a>
             </header>
             <div class="fb-column-container">
