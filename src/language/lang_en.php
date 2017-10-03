@@ -759,7 +759,7 @@ $translations = array(
   'Set your live sync password' =>
     'Set your live sync password',
   'Link Your Google Account' =>
-    'Link Your Google Account'
+    'Link Your Google Account',
   'Link your account with Google.  You may link your FBCTF account on this instance with your Google account.  Note that this will provide your email address to the administrators of this FBCTF instance.' =>
     'Link your account with Google.  You may link your FBCTF account on this instance with your Google account.  Note that this will provide your email address to the administrators of this FBCTF instance.',
   'Close' =>
