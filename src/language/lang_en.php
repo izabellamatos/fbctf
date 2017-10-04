@@ -363,6 +363,10 @@ $translations = array(
     'Enabled',
   'Disabled' =>
     'Disabled',
+  'ENABLE' =>
+    'ENABLE',
+  'DISABLE' =>
+    'DISABLE',
   'Quiz Level' =>
     'Quiz Level',
   'Show Answer' =>
