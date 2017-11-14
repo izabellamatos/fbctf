@@ -682,4 +682,90 @@ $translations = array(
     'LDAP Port',
   'LDAP Domain' =>
     'LDAP Domain',
+  'In Progress' =>
+     'In Progress',
+  'Account' =>
+     'Account',
+  'Autorun Cycle (s)' =>
+     'Autorun Cycle (s)',
+   'Auto Announcements' =>
+     'Auto Announcements',
+  'Month' =>
+     'Month',
+  'Hour' =>
+     'Hour',
+  'LiveSync' =>
+     'Livesync',
+  'Optional LiveSync Auth Key' =>
+     'Optional Livesync Auth Key',
+  'Custom Organization' =>
+     'Custom Organization',
+  'Custom Byline' =>
+     'Custom Byline',
+  'Announcement Controls' =>
+     'Announcement Controls',
+  'Utilities' =>
+     'Utilities',
+  'Flush Memcached' =>
+     'Flush Memcached',
+  'Reset Database' =>
+     'Reset Database',
+  'Restore Database' =>
+     'Restore Database',
+  'Backup Database' =>
+     'Backup Database',
+  'Import Attachments' =>
+     'Import Attachments',
+  'Export Attachments' =>
+     'Export Attachments',
+  'ENABLE' =>
+     'ENABLE',
+  'DISABLE' =>
+     'DISABLE',
+  'Pause Game' =>
+     'Pause Game',
+  'pause_' =>
+     'pause_',
+  'Are you sure you want to pause the current game?' =>
+     'Are you sure you want to pause the current game?',
+  'unpause_' =>
+     'unpause_',
+  'Are you sure you want to unpause the current game?' =>
+     'Are you sure you want to unpause the current game?',
+  'delete_' =>
+     'delete_',
+  'Are you sure you want to delete this level? All data for this level will be irreversibly removed, including scores.' =>
+     'Are you sure you want to delete this level? All data for this level will be irreversibly removed, including scores.',
+  'Are you sure you want to delete this team? All data for this team will be irreversibly removed, including scoring logs. If you prefer to retain data, you can disable the team instead.' =>
+     'Are you sure you want to delete this team? All data for this team will be irreversibly removed, including scoring logs. If you prefer to retain data, you can disable the team instead.',
+  'Imported' =>
+     'Imported',
+  'Items have been imported successfully' =>
+     'Items have been imported successfully',
+  'Database' =>
+     'Database',
+  'restore_' =>
+     'restore_',
+  'Are you sure you want to restore the database? This will overwrite ALL existing data!' =>
+     'Are you sure you want to restore the database? This will overwrite ALL existing data!',
+  'reset_' =>
+     'reset_',
+  'Are you sure you want to reset the database? This will destroy ALL data! Admin accounts will remain.' =>
+     'Are you sure you want to reset the database? This will destroy ALL data! Admin accounts will remain.',
+  'account_' =>
+     'account_',
+  'Settings' =>
+     'Settings',
+  'Setup your FBCTF Live Sync credentials.  These credentials must be the SAME on all other FBCTF instances that you are linking. DO NOT use your account password.' =>
+     'Setup your FBCTF Live Sync credentials.  These credentials must be the SAME on all other FBCTF instances that you are linking. DO NOT use your account password.',
+  'Set your live sync username' =>
+     'Set your live sync username',
+  'Set your live sync password' =>
+     'Set your live sync password',
+  'Link Your Google Account' =>
+     'Link Your Google Account',
+  'Link your account with Google.  You may link your FBCTF account on this instance with your Google account.  Note that this will provide your email address to the administrators of this FBCTF instance.' =>
+     'Link your account with Google.  You may link your FBCTF account on this instance with your Google account.  Note that this will provide your email address to the administrators of this FBCTF instance.',
+  'Close' =>
+     'Close',  
 );
