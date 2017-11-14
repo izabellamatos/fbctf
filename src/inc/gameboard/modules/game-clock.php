@@ -112,7 +112,7 @@ class ClockModuleController {
             </div>
             <div class="game-progress fb-progress-bar">
               <span class="label label--left">[{tr('Start')}]</span>
- +              <span class="label label--right">[{tr('End')}]</span>
+              <span class="label label--right">[{tr('End')}]</span>
               {$indicator}
             </div>
           </div>
@@ -133,7 +133,7 @@ class ClockModuleController {
             </div>
             <div class="game-progress fb-progress-bar">
               <span class="label label--left">[{tr('Start')}]</span>
- +              <span class="label label--right">[{tr('End')}]</span>
+              <span class="label label--right">[{tr('End')}]</span>
               {$indicator}
             </div>
           </div>
