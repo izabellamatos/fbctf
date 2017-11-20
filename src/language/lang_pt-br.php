@@ -38,7 +38,8 @@ $translations = array(
   'Official CTF Rules' =>
     'Regras Oficiais',
   'Following actions are prohibited, unless explicitly told otherwise by event Admins.' =>
-    'As seguintes ações são proibidas, a menos que explicitamente dito de outra forma pelos administradores do evento.',
+    //'As seguintes ações são proibidas, a menos que explicitamente dito de outra forma pelos administradores do evento.',
+    '',
   'Rule' =>
     'Regra',
   'Cooperation' =>
@@ -124,7 +125,7 @@ $translations = array(
   'Registration' =>
     'Registrar',
   'Play CTF' =>
-    'Jogar CTF',
+    'Jogar',
   'Rules' =>
     'Regras',
   //Translations for GameboardController
@@ -149,7 +150,7 @@ $translations = array(
   'All' =>
     'Todos',
   'Leaderboard' =>
-    'Leaderboard',
+    'Ranking',
   'Announcements' =>
     'Avisos',
   'Teams' =>
@@ -159,7 +160,7 @@ $translations = array(
   'Activity' =>
     'Atividade',
   'Game Clock' =>
-    'Tempo de Jogo',
+    'Cronômetro',
   //Translations for AdminController
   'Auto' =>
     'Auto',
@@ -173,6 +174,16 @@ $translations = array(
     'Hora',
   'Hours' =>
     'Horas',
+  'Minute' =>
+    'Minuto',
+  'Minutes' =>
+    'Minutos',
+  'Day' =>
+    'Dia',
+  'Game Start Year' =>
+    'Ano de Começo do Jogo',
+  'Game End Year' =>
+    'Ano de Fim do Jogo',
   'Used by' =>
     'Utilizado por',
   'Used By' =>
@@ -511,9 +522,9 @@ $translations = array(
   'Remaining' =>
     'Restante',
   'Start' =>
-    'Começar',
+    'Começo',
   'End' =>
-    'Terminar',
+    'Fim',
   'Rank' =>
     'Rank',
   'pts' =>
@@ -637,7 +648,7 @@ $translations = array(
   'Tool_Bars' =>
     'Barra_de_Ferramentas',
   'Tap the "Game Clock" to keep track of time during gameplay. Don’t let time get the best of you.' =>
-    'Precione "Tempo de Jogo" para ver o tempo durante a partida. Não deixe o tempo tirar o melhor de você.',
+    'Pressione "Tempo de Jogo" para ver o tempo durante a partida. Não deixe o tempo tirar o melhor de você.',
   'Game_Clock' =>
     'Tempo_do_Jogo',
   'Countries marked with an ' =>
@@ -649,18 +660,18 @@ $translations = array(
   'Captures' =>
     'Capturas',
   'Tap Plus[+] to Zoom In. Tap Minus[-] to Zoom Out.' =>
-    'Precione Mais[+] para aumentar o Zoom. Precione Menos[-] para diminuir o Zoom.',
+    'Pressione Mais[+] para aumentar o Zoom. Pressione Menos[-] para diminuir o Zoom.',
   'Click and Drag to move left, right, up and down.' =>
     'Clique e arraste para mover para esquerda, direita, cima e baixo.',
   'Zoom' =>
     'Zoom',
   'Tap Forward Slash [/] to activate computer commands. A list of commands can be found under "Rules".' =>
-    'Precione Barra [/] para ativar os comandos. A lista de comandos pode ser encontrada em "Regras".',
+    'Pressione Barra [/] para ativar os comandos. A lista de comandos pode ser encontrada em "Regras".',
   'Command_Line' =>
     'Linha_de_Comando',
   'Click "Nav" to access main navigation links like Rules of Play, Registration, Blog, Jobs & more.' =>
     'Clique em "Nav" para acessar os links pricipais como Regras do Jogo, Cadastro, Blog, Trabalhos e mais.',
-  'Track your competition by clicking "scorboard" to access real-time game statistics and graphs.' =>
+  'Track your competition by clicking "scoreboard" to access real-time game statistics and graphs.' =>
     'Acompanhe sua competição clicando em "placar" para acessar estatíscas e gráficos em tempo real',
   'Have fun, be the best and conquer the world.' =>
     'Divirta-se, seja o melhor e conquiste o mundo.',
@@ -675,13 +686,13 @@ $translations = array(
   'Powered By Facebook' =>
     'Powered By Facebook',
   'Active Directory / LDAP' =>
-    'Active Directory / LDAP',
+    'Diretório Ativo / LDAP',
   'LDAP Server' =>
     'LDAP Servidor',
   'LDAP Port' =>
     'LDAP Porta',
   'LDAP Domain' =>
-    'LDAP Domínio',
+    'Domínio LDAP',
 //Alterações adicionais
   'In Progress' =>
      'Em Progresso',
@@ -710,9 +721,9 @@ $translations = array(
   'Flush Memcached' =>
      'Limpar Memcached',
   'Reset Database' =>
-     'Resetar Bando de Dados',
+     'Resetar Banco de Dados',
   'Restore Database' =>
-     'Restaurar Bando de Dados',
+     'Restaurar Banco de Dados',
   'Backup Database' =>
      'Backup de Banco de Dados',
   'Import Attachments' =>
@@ -723,6 +734,10 @@ $translations = array(
      'HABILITAR',
   'DISABLE' =>
      'DESABILITAR',
+  'ENABLED' =>
+     'HABILITADO',
+  'DISABLED' =>
+     'DESABILITADO',
   'Pause Game' =>
      'Pausar Jogo',
   'pause_' =>
@@ -757,7 +772,7 @@ $translations = array(
      'conta_',
   'Settings' =>
      'Configurações',
-  'Setup your FBCTF Live Sync credentials.  These credentials must be the SAME on all other FBCTF instances that you are linking. DO NOT use your account password.' =>
+  'Setup your FBCTF Live Sync credentials. These credentials must be the SAME on all other FBCTF instances that you are linking. DO NOT use your account password.' =>
      'Configure as suas credenciais FBCTF Live Sync.  Estas credenciais devem ser as MESMAS em todas as instâncias FBCTF que você está concectado. NÃO USE a senha da sua conta.',
   'Set your live sync username' =>
      'Defina o seu nome de usuário live sync',
