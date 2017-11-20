@@ -12,7 +12,7 @@ $translations = array(
   'Play' =>
     'Jogar',
   'Welcome to the Facebook Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.' =>
-    'Bem vindo à competição CTF do Facebook. Ao clicar "Jogar", você entrará no desafio CTF oficial. Boa sorte em sua conquista.',
+    'Bem vindo à edição especial do QuartaTec. Ao clicar "Jogar", você entrará no desafio oficial. Boa sorte em sua conquista.',
   'Get ready for the CTF to start and access the gameboard now!' =>
     'Prepare-se para competir e acesse o gameboard agora!',
   'Gameboard' =>
@@ -99,7 +99,7 @@ $translations = array(
   'Not Available' =>
     'Indisponível',
   'Team Registration will be open soon, stay tuned!' =>
-    'Inscrição de equipe abrirá em breve, fique ligado!',
+    'Inscrição de equipes abrirá em breve, fique ligado!',
   'Try Again' =>
     'Tente Novamente',
   'Select' =>
