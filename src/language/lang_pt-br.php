@@ -31,7 +31,7 @@ $translations = array(
     '_dias',
   '_hours' =>
     '_horas',
-  '_minutos' =>
+  '_minutes' =>
     '_minutos',
   '_seconds' =>
     '_segundos',
@@ -772,7 +772,7 @@ $translations = array(
      'conta_',
   'Settings' =>
      'Configurações',
-  'Setup your FBCTF Live Sync credentials. These credentials must be the SAME on all other FBCTF instances that you are linking. DO NOT use your account password.' =>
+  'Setup your FBCTF Live Sync credentials.  These credentials must be the SAME on all other FBCTF instances that you are linking.  DO NOT use your account password.' =>
      'Configure as suas credenciais FBCTF Live Sync.  Estas credenciais devem ser as MESMAS em todas as instâncias FBCTF que você está concectado. NÃO USE a senha da sua conta.',
   'Set your live sync username' =>
      'Defina o seu nome de usuário live sync',
