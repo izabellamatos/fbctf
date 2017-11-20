@@ -182,92 +182,70 @@ class IndexController extends Controller {
           <div class="fb-rules">
             <section>
               <header class="rule-section-header">
-                <h3>{tr('Rule')} 1</h3>
-                <h6>{tr('Cooperation')}</h6>
+                <h3>SOBRE</h3>
               </header>
               <div class="rule-main">
-                <p>
-                  {tr(
-                    'No cooperation between teams with independent accounts. Sharing of keys or providing revealing hints to other teams is cheating, don’t do it.',
-                  )}
-                </p>
+                <h6>O que é?</h6>                          
+                <p>O CTF, do inglês Capture the Flag, é uma competição na qual os participantes enfrentam desafios relacionados à segurança da informação. O objetivo é acumular a maior quantidade de pontos ao final do tempo pré-estipulado.</p>
+                <p></p>
+                <h6>Quem pode participar?</h6>                          
+                <p>Período: de 20 a 28 de novembro de 2017.</p>
+                <p>Informação de e-mail: para efeito de inscrição, deverá ser utilizado o e-mail corporativo. Qualquer e-mail que não seja o do Serpro será desconsiderado. </p>
+                <p></p>
+                <h6>Inscrição</h6>                          
+                <p></p>
+                <p></p>
+                <h6>Duração</h6>                          
+                <p>O CTF acontecerá no período de 9h às 17h do dia 29 de novembro. É importante que os jogadores participem da competição, sem prejuízo de suas atividades laborais.</p>
+                <p></p>
+                <h6>Pontuação</h6>                          
+                <p><A pontuação irá variar de acordo com o nível de dificuldade de cada desafio. Aqueles que resolverem primeiro terão uma pontuação bônus./p>
+                <p></p>
+                <h6>Só quem é de TI pode participar?</h6>                          
+                <p>Qualquer empregado de qualquer área poderá participar. Haverá desafios focados em TI, mas também terão quizes, muitas vezes necessitando pesquisa de informações em sites de busca, como Google.</p>
+                <p></p>
+                <h6>Premiação</h6>                          
+                <p>Conhecimento e experiência!</p>
+                <p></p>
+                <h6>Dicas</h6>                          
+                <p>Essa competição tem o intuito de permitir uma interação e compartilhamento de conhecimentos.</p>
+                <p></p>              
+              </div>
+            </section>
+            <section>
+              <header class="rule-section-header">
+                <h3>Não é permitido:</h3>
+              </header>
+              <div class="rule-main">
+                <p>-  Compartilhar respostas ou dicas com outras equipes; </p>
+                <p>-  Atacar ou fazer negação de serviço na infraestrutura da competição; </p>
+                <p>-  Sabotar outras equipes; </p>
+                <p>-  Usar ataque de força bruta nas flags, respostas e pontuação do jogo.</p>
                 <p></p>
               </div>
             </section>
             <section>
               <header class="rule-section-header">
-                <h3>{tr('Rule')} 2</h3>
-                <h6>{tr('Attacking Scoreboard')}</h6>
+                <h3>É Obrigatório:</h3>
               </header>
               <div class="rule-main">
-                <p>
-                  {tr(
-                    'No attacking the competition infrastructure. If bugs or vulns are found, please alert the competition organizers immediately.',
-                  )}
-                </p>
+                <p>- Qualquer ação que infrinja tanto as regras estabelecidas no QuartaTec Desafios quanto as normas do Serpro implicará em desclassificação.</p>
+                <p>- No caso de se encontrar qualquer bug ou vulnerabilidade avise aos organizadores imediatamente.</p>
                 <p></p>
               </div>
             </section>
             <section>
               <header class="rule-section-header">
-                <h3>{tr('Rule')} 3</h3>
-                <h6>{tr('Sabotage')}</h6>
+                <h3>AVISO LEGAL</h3>
               </header>
               <div class="rule-main">
-                <p>
-                  {tr(
-                    'Absolutely no sabotaging of other competing teams, or in any way hindering their independent progress.',
-                  )}
-                </p>
+                <p>Ao se inscrever no QuartaTec Desafios:</p>
+                <p>- O jogador concorda em isentar o Serpro de quaisquer responsabilidades, reivindicações ou ações de qualquer natureza por lesões, danos ou perdas para pessoas e bens que possam ser mantidos em conexão com o campeonato.</p>
+                <p>- O Sistema não foi testado para acessibilidade. No caso de dificuldade fazer contato com a UniSerpro, pelo e-mail xxxxxxx@serpro.gov.br.</p>
                 <p></p>
               </div>
-            </section>
-            <section>
-              <header class="rule-section-header">
-                <h3>{tr('Rule')} 4</h3>
-                <h6>{tr('Bruteforcing')}</h6>
-              </header>
-              <div class="rule-main">
-                <p>
-                  {tr(
-                    'No brute forcing of challenge flag/ keys against the scoring site.',
-                  )}
-                </p>
-                <p></p>
-              </div>
-            </section>
-            <section>
-              <header class="rule-section-header">
-                <h3>{tr('Rule')} 5</h3>
-                <h6>{tr('Denial Of Service')}</h6>
-              </header>
-              <div class="rule-main">
-                <p>
-                  {tr(
-                    'DoSing the CTF platform or any of the challenges is forbidden.',
-                  )}
-                </p>
-                <p></p>
-              </div>
-            </section>
-            <section>
-              <header class="rule-section-header">
-                <h3>{tr('Legal')}</h3>
-                <h6>{tr('Disclaimer')}</h6>
-              </header>
-              <div class="rule-main">
-                <p>
-                  {tr(
-                    'By participating in the contest, you agree to release Facebook and its employees, and the hosting organization from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest. You acknowledge and agree that Facebook et al is not responsible for technical, hardware or software failures, or other errors or problems which may occur in connection with the contest.',
-                  )}
-                </p>
-              </div>
-            </section>
-            <p>
-              {tr(
-                'If you have any questions about what is or is not allowed, please ask an organizer.',
-              )}
-            </p>
+            </section>            
+            <p>No caso de dúvidas, contatar cegsi@serpro.gov.br.</p>
             <p></p>
             <p>{tr('Have fun!')}</p>
             <p></p>
