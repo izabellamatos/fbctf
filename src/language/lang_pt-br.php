@@ -784,4 +784,6 @@ $translations = array(
      'Vincule a sua conta com o Google.  Você deve vincular a sua conta FBCTF dessa instância com a sua conta Google. Observe que isso fornecerá seu endereço de e-mail aos administradores dessa instância FBCTF.',
   'Close' =>
      'Fechar',
+  'Please fix the errors in red' =>
+     'Corrija os erros em vermelho',
 );
