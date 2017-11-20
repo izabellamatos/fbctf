@@ -189,17 +189,17 @@ class IndexController extends Controller {
                 <p>O CTF, do inglês Capture the Flag, é uma competição na qual os participantes enfrentam desafios relacionados à segurança da informação. O objetivo é acumular a maior quantidade de pontos ao final do tempo pré-estipulado.</p>
                 <p></p>
                 <h6>Quem pode participar?</h6>                          
-                <p>Período: de 20 a 28 de novembro de 2017.</p>
-                <p>Informação de e-mail: para efeito de inscrição, deverá ser utilizado o e-mail corporativo. Qualquer e-mail que não seja o do Serpro será desconsiderado. </p>
+                <p>Todos os empregados do Serpro que estejam conectados na intranet da Empresa. Os participantes podem competir individualmente ou em equipes de duas ou, no máximo, até três pessoas.</p>
                 <p></p>
                 <h6>Inscrição</h6>                          
-                <p></p>
+                <p>Período: de 20 a 28 de novembro de 2017.</p>
+                <p>Informação de e-mail: para efeito de inscrição, deverá ser utilizado o e-mail corporativo. Qualquer e-mail que não seja o do Serpro será desconsiderado.</p>
                 <p></p>
                 <h6>Duração</h6>                          
                 <p>O CTF acontecerá no período de 9h às 17h do dia 29 de novembro. É importante que os jogadores participem da competição, sem prejuízo de suas atividades laborais.</p>
                 <p></p>
                 <h6>Pontuação</h6>                          
-                <p><A pontuação irá variar de acordo com o nível de dificuldade de cada desafio. Aqueles que resolverem primeiro terão uma pontuação bônus./p>
+                <p>A pontuação irá variar de acordo com o nível de dificuldade de cada desafio. Aqueles que resolverem primeiro terão uma pontuação bônus.</p>
                 <p></p>
                 <h6>Só quem é de TI pode participar?</h6>                          
                 <p>Qualquer empregado de qualquer área poderá participar. Haverá desafios focados em TI, mas também terão quizes, muitas vezes necessitando pesquisa de informações em sites de busca, como Google.</p>
